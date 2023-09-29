@@ -1,0 +1,19 @@
+D1,Tyrannasaurous
+D2,Apatasauros
+D3,Velociraptor
+D4,Tricerotops
+D5,Pterodactyl
+T1,Diesel-Electric
+T2,Steam Engine
+T3,Box Car
+T4,Tanker Car
+T5,Caboose
+B1,Baseball
+B2,Basketball
+B3,Football
+B4,Softball
+B5,Tennis Ball
+B6,Vollyeball
+B7,Rugby Ball
+B8,Cricket Ball
+B9,Medicine Ball

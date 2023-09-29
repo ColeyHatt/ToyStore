@@ -1,0 +1,4 @@
+********************* Toy Log *********************
+Entry 1 / Success on User Entry = D1, Tyrannasaurous
+Entry 2 / Error on User Entry = test
+Entry 3 / User Quit.
